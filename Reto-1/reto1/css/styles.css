@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.title{
+    background-color: #5a3954;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    border: 50px ;
+}
+.titulos{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.fondo{
+    background-color: #033442 ;
+}
+.textos{
+    background-color: #08898E;
+    border-radius: 10px;
+    text-align: center;
+    padding: 12.5px;
+}
+.bloques{
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    padding: 35px;
+}
